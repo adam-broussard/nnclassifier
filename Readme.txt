@@ -1,0 +1,1 @@
+Taken from https://github.com/lsst/throughputs/tree/master/baseline
